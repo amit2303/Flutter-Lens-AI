@@ -1,16 +1,25 @@
-# lens
+# Lens-AI
 
-A new Flutter project.
+Leveraged Firebase ML Kit, and TensorFlow Lite to develop advanced AI-powered Multi -functionality Flutter App. Developed and fine-tuned a TensorFlow Lite-based Flutter application achieving 87% accuracy in predicting and labelling objects from both gallery images and live camera feeds.
 
-## Getting Started
+Implemented functionalities for Barcode Scanning, Text Recognition, Face Detection, Object Detection, and Object Labelling using live camera footage with 90% correct detections.
+generating relevant smart reply suggestions in chat applications, with 8 out of 10 suggestions being pertinent.
 
-This project is a starting point for a Flutter application.
+Pose Detection, Text Translation, and Language Identification, enhancing the application's usability and versatility.
 
-A few resources to get you started if this is your first Flutter project:
+<div style="display:flex; justify-content:space-around;">
+  <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-06%20at%2021.57.52.png" alt="App Screenshot 1" width="300" height="600">
+  <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-06%20at%2021.58.05.png" alt="App Screenshot 2" width="300" height="600">
+    <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-05-06%20at%2021.58.29.png" alt="App Screenshot 1" width="300" height="600">
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+From Live Camera
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<div style="display:flex; justify-content:space-around;">
+  <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2274.PNG" alt="App Screenshot 1" width="300" height="600">
+  <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2276.PNG" alt="App Screenshot 2" width="300" height="600">
+    <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2277.PNG" alt="App Screenshot 1" width="300" height="600">
+  <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2278.PNG" alt="App Screenshot 2" width="300" height="600">
+    
+</div>
