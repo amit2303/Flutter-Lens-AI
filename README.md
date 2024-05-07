@@ -19,7 +19,7 @@ From Live Camera
 <div style="display:flex; justify-content:space-around;">
   <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2274.PNG" alt="App Screenshot 1" width="300" height="600">
   <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2276.PNG" alt="App Screenshot 2" width="300" height="600">
-    <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2277.PNG" alt="App Screenshot 1" width="300" height="600">
+
   <img src="https://github.com/amit2303/Flutter-Lens-AI/blob/main/snapshots/IMG_2278.PNG" alt="App Screenshot 2" width="300" height="600">
     
 </div>
